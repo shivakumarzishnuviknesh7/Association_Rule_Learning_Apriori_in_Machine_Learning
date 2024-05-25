@@ -1,0 +1,1 @@
+It is a machine learning project that helps a retail shop owner predict whether customers will buy certain items or not, similar to a suggestion system, built using the Apriori algorithm with a dataset of 7500 transactions
